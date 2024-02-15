@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PranayBarla/advice_generator/static/css/main.e6c13ad2.css",
+    "main.js": "/PranayBarla/advice_generator/static/js/main.ba10f4f6.js",
+    "static/js/592.ba7f609d.chunk.js": "/PranayBarla/advice_generator/static/js/592.ba7f609d.chunk.js",
+    "index.html": "/PranayBarla/advice_generator/index.html",
+    "main.e6c13ad2.css.map": "/PranayBarla/advice_generator/static/css/main.e6c13ad2.css.map",
+    "main.ba10f4f6.js.map": "/PranayBarla/advice_generator/static/js/main.ba10f4f6.js.map",
+    "592.ba7f609d.chunk.js.map": "/PranayBarla/advice_generator/static/js/592.ba7f609d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba10f4f6.js"
+  ]
+}
